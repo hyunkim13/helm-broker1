@@ -1,0 +1,9 @@
+docs:
+  - template:
+      displayName: "AWS Service Broker"
+      description: "Documentation for AWS Service Broker."
+      sources:
+        - type: markdown
+          name: markdown-files
+          mode: package
+          filter: docs/

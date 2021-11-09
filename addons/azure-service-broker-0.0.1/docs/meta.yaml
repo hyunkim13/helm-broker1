@@ -1,0 +1,9 @@
+docs:
+  - template:
+      displayName: "Azure Service Broker"
+      description: "Documentation for Azure Service Broker."
+      sources:
+        - type: markdown
+          name: markdown-files
+          mode: package
+          filter: docs/broker

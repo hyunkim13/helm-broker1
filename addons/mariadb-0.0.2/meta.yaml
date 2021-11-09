@@ -1,0 +1,15 @@
+name: mariadb
+version: 0.0.2
+id: 3aa94c96-412d-11ec-973a-0242ac130003
+description: "[Experimental] Redis by Helm Broker. This is an example add-on. It is not recommended for production scenarios."
+displayName: "[Experimental] Redis"
+
+tags: database, cache, experimental
+labels:
+  experimental: "true"
+providerDisplayName: bitnami
+longDescription: "[Experimental] Redis by Helm Broker. This is an example add-on. It is not recommended for production scenarios. Redis is an advanced key-value cache and store."
+documentationURL: https://github.com/bitnami/bitnami-docker-mariadb
+supportURL: https://bitnami.com/support
+imageURL: https://cdn.auth0.com/blog/logos/redis-icon-logo.png
+bindable: true

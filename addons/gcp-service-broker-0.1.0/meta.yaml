@@ -1,0 +1,13 @@
+name: gcp-service-broker
+version: 0.1.0
+id: cbc4ce74-b402-4ff6-b230-2a079cf1706d
+description: "Enables the integration of Google Cloud Platform services."
+displayName: "GCP Service Broker"
+
+tags: gcp, google, broker
+providerDisplayName: "Google Cloud Platform"
+longDescription: "Open Service Broker for Google Cloud Platform"
+documentationURL: https://github.com/GoogleCloudPlatform/gcp-service-broker
+imageURL: https://www.gstatic.com/devrel-devsite/prod/v35095b53655653106712feb44f96c6929ce012ae38486ad7db1de265cbd9b7ec/cloud/images/favicons/onecloud/apple-icon.png
+bindable: false
+provisionOnlyOnce: true

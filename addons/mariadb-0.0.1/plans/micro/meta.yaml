@@ -1,0 +1,6 @@
+name: micro
+id: 3def8919-da13-445b-9a43-f2f1bbfa39ed
+description: "Mariadb micro plan which uses the in-memory persistence."
+displayName: Micro
+
+bindable: true
